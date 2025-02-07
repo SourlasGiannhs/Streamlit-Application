@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
+umap-learn
+numpy
+scikit-learn
+plotly.express 
+pip
